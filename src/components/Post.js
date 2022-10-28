@@ -43,9 +43,10 @@ const Post = () => {
       />
       <CardContent>
         <Typography variant="body2" color="text.secondary">
-          This impressive paella is a perfect party dish and a fun meal to cook
-          together with your guests. Add 1 cup of frozen peas along with the
-          mussels, if you like.
+          The City of Paris is the centre of the Île-de-France region, or Paris
+          Region, with an estimated population of 12,262,544 in 2019. Paris
+          Museums were closed for much of 2020, but gradually re-opened in 2021,
+          with limitations on the number of visitors.
         </Typography>
       </CardContent>
       <CardActions disableSpacing>
